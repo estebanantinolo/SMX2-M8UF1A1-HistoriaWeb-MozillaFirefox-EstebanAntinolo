@@ -6,3 +6,4 @@ Es un **navegador web** de código abierto, es decir, cualquier persona puede mi
 
 ![imagen](https://github.com/estebanantinolo/ejemplo/blob/main/mozilla.png)
 
+La organización de Mozilla es una entidad sin fines lucrativos, su objetivo no es ganar dinero, sino crear un navegador web gratuito para el público general. Por último, se lanzó en 2004 y ese año fue descargado mas de 100 millones de veces.
